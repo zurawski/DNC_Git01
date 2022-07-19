@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebc4f238-c075-4245-81fc-cd2122259883" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Main/Readme.me" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Readme.me" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Readme.me" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
       <updated>1658236719712</updated>
       <workItem from="1658236723891" duration="47000" />
       <workItem from="1658237458275" duration="82000" />
+      <workItem from="1658237978891" duration="39000" />
     </task>
     <servers />
   </component>
